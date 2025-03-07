@@ -1,4 +1,4 @@
-<h1 align="center">🚀 web-extension-starter</h1>
+<h1 align="center">🚀 Scam Sniffer</h1>
 <p align="center">Web Extension starter to build "Write Once Run on Any Browser" extension</p>
 <div align="center">
   <a href="https://travis-ci.com/abhijithvijayan/web-extension-starter">
